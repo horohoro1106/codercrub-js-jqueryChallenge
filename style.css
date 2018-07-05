@@ -1,0 +1,12 @@
+.table__item{
+    background-color:red;
+    width:10px;
+    display:inline-block;
+    padding:0;
+    margin-left:2px;
+    margin-right:2px;
+}
+#table{
+    height:700px;
+    width: 1024px;
+}
